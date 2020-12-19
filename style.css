@@ -1,0 +1,45 @@
+body{
+  background: #000;
+}
+
+header{
+  text-align: center;
+  margin: 70px;
+color: #fff;
+}
+
+section{
+background: #fff;
+margin: auto;
+text-align: justify;
+padding: 20px;
+width: 500px;
+border-radius: 8px;
+}
+footer{
+  margin: 50px;
+  text-align: center;
+  color: #fff;
+}
+button{
+  background: none;
+  border: solid 1px;
+  border-radius: 5px;
+  padding: 8px;
+  cursor: pointer;
+}
+button:hover{
+  opacity: 0.5;
+}
+
+.imagem{
+  background: #dcdcdc;
+  width: 200px;
+  margin-left:25%;
+  height: 200px;
+  border-radius: 50%;
+  display: none;
+}
+.alerta{
+  padding: 20px 20px 0px;
+}
